@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kombini</string>
+    <string name="button_login">Log In</string>
+    <string name="screen_login_email">vitoscaletta@gmail.com</string>
+    <string name="screen_login_pass">password</string>
+    <string name="screen_forgot">Forgot you password?</string>
+    <string name="screen_signin">Don't have an account?</string>
+    <string name="button_signin"> Create one</string>
+</resources>

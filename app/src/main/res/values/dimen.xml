@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_pass_width">231dp</dimen>
+    <dimen name="button_width">284dp</dimen>
+    <dimen name="button_height">61dp</dimen>
+    <dimen name="button_absoluteY">464dp</dimen>
+    <dimen name="all_margin">8dp</dimen>
+    <dimen name="edittext_height">47dp</dimen>
+    <dimen name="lock_letter_height">47dp</dimen>
+    <dimen name="lock_letter_width">50dp</dimen>
+    <dimen name="kombini_height">351</dimen>
+    <dimen name="kombini_width">417</dimen>
+    <dimen name="email_login_absoluteX">113dp</dimen>
+    <dimen name="pass_absoluteY">407dp</dimen>
+    <dimen name="forgot_absoluteX">138dp</dimen>
+    <dimen name="forgot_absoluteY">537dp</dimen>
+    <dimen name="screen_signin_absoluteX">105dp</dimen>
+    <dimen name="button_signin_absoluteX">251dp</dimen>
+    <dimen name="sigin_absoluteY">680dp</dimen>
+    <dimen name="lock_absoluteY">407dp</dimen>
+    <dimen name="letter_absoluteY">360dp</dimen>
+    <dimen name="lock_letter_absoluteX">64dp</dimen>
+</resources>
